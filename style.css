@@ -64,7 +64,6 @@ a {
 .about-left {
   width: 700px;
   color: rgb(206, 205, 205);
-  text-align: justify;
 
 }
 
@@ -265,7 +264,6 @@ button:hover {
   color: rgb(206, 205, 205);
   line-height: 1.5;
   position: relative;
-  text-align: justify;
 }
 
 .experience li::before {
