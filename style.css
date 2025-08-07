@@ -484,7 +484,9 @@ button:hover {
     flex-direction: column;
     border-top: none;
     padding-left: 30px;
+    margin-top: 45px;
   }
+
 
   .education::before {
     top: 45px;
