@@ -461,8 +461,12 @@ button:hover {
   }
 
   .skill-box {
-    width: 300px;
-    height: 500px;
+    width: 280px;
+    height: 650px;
+    
+  }
+  .skill-box h4{
+    font-size: 20px;
   }
 
   .experience {
@@ -498,7 +502,6 @@ button:hover {
     margin-bottom: 40px;
     text-align: justify;
     width: 100%;
-
   }
 
   .event::before {
@@ -515,7 +518,6 @@ button:hover {
   .social {
     margin-top: 20px;
   }
-
 
 }
 
