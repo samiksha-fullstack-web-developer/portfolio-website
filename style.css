@@ -393,7 +393,7 @@ button:hover {
 }
 
 /* Mobile menu */
-@media (max-width: 1000px) {
+@media (max-width: 768px) {
   .container {
     margin: 20px auto;
     padding: 0 30px;
@@ -522,14 +522,14 @@ button:hover {
 
 }
 
-@media screen and (min-width: 1000px) and (max-width: 1200px) {
+@media screen and (min-width: 768px) and (max-width: 1200px) {
   #projects {
-    padding-bottom: 1000px;
+    padding-bottom: 900px;
     /* NOT 1380px */
   }
 
   #education {
-    margin-top: 120px;
+    margin-top: 100px;
     /* NOT 1000px */
   }
 }
