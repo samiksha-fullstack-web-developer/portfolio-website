@@ -395,7 +395,6 @@ button:hover {
   .container {
     margin: 20px auto;
     padding: 0 30px;
-    height: 100vh;
   }
  
 
@@ -404,13 +403,13 @@ button:hover {
     flex-direction: column;
     position: absolute;
     top: 80px;
-    width: 50%;
+    width: 70%;
     padding: 10px;
     z-index: 999;
     transition: all 0.3s ease-in-out;
     font-size: 18px;
     margin-top: 50px;
-    height: 100vh;
+    height:100vh;
     background-color: #00071d;
   }
 
@@ -442,7 +441,7 @@ button:hover {
 
 }
   .about-right {
-    width: 90%;
+    width: 80%;
     height: 300px;
     max-width: 540px;
     margin-top: 18px;
