@@ -183,10 +183,10 @@ button:hover {
 .skill-box::after {
   content: "";
   position: absolute;
-  top: 4px;
-  left: 4px;
-  right: 4px;
-  bottom: 4px;
+  top: 2px;
+  left: 2px;
+  right: 2px;
+  bottom: 2px;
   border-radius: 18px;
   z-index: -1;
   background-color: #00071d;
@@ -525,11 +525,9 @@ button:hover {
 @media screen and (min-width: 768px) and (max-width: 1200px) {
   #projects {
     padding-bottom: 900px;
-    /* NOT 1380px */
   }
 
   #education {
     margin-top: 100px;
-    /* NOT 1000px */
   }
 }
