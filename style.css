@@ -395,6 +395,10 @@ button:hover {
     padding: 0 30px;
     height: 100vh;
   }
+  .animatedheading {
+  font-size: 35px;
+
+}
 
   .menu {
     display: none;
