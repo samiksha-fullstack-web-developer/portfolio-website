@@ -397,20 +397,21 @@ button:hover {
     padding: 0 30px;
     height: 100vh;
   }
+ 
 
   .menu {
     display: none;
     flex-direction: column;
-    background-color: #2a3439dc;
-    height: 100vh;
     position: absolute;
-    top: 90px;
-    width: 100%;
+    top: 80px;
+    width: 50%;
     padding: 10px;
     z-index: 999;
     transition: all 0.3s ease-in-out;
     font-size: 18px;
     margin-top: 50px;
+    height: 100vh;
+    background-color: #00071d;
   }
 
   .menu.active {
@@ -449,7 +450,8 @@ button:hover {
 
   .skill-container {
     flex-direction: column;
-    align-items: center;
+    align-items: center;  
+overflow: hidden;
 
   }
 .skill-box{
