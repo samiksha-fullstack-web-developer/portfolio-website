@@ -395,6 +395,9 @@ button:hover {
     padding: 0 30px;
     height: 100vh;
   }
+  h3{
+    font-size: 35px;
+  }
   .animatedheading {
   font-size: 35px;
 
