@@ -433,10 +433,10 @@ button:hover {
     width: 100%;
   }
   .head3{
-    font-size: 35px;
+    font-size: 30px;
   }
   .animatedheading {
-  font-size: 35px;
+  font-size: 30px;
   margin-top: 7px;
 
 }
@@ -449,6 +449,9 @@ button:hover {
     align-items: center;  
     overflow: hidden;
 
+  }
+  #skill{
+    text-align: center;
   }
 .skill-box{
   width:300px;
