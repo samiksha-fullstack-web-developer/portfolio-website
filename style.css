@@ -431,21 +431,17 @@ button:hover {
 
   .about-left {
     width: 100%;
-
   }
   .head3{
-    font-size: 30px;
+    font-size: 35px;
   }
   .animatedheading {
-  font-size: 30px;
+  font-size: 35px;
   margin-top: 7px;
 
 }
   .about-right {
-    width: 70%;
-    height: 255px;
-    max-width: 540px;
-    margin-top: 18px;
+    display: none;
   }
 
   .skill-container {
