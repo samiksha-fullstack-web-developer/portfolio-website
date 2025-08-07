@@ -395,13 +395,6 @@ button:hover {
     padding: 0 30px;
     height: 100vh;
   }
-  h3{
-    font-size: 30px;
-  }
-  .animatedheading {
-  font-size: 30px;
-
-}
 
   .menu {
     display: none;
@@ -438,6 +431,14 @@ button:hover {
     width: 100%;
 
   }
+    .head3{
+    font-size: 30px;
+  }
+  .animatedheading {
+  font-size: 30px;
+
+}
+
 
   .about-right {
     width: 90%;
