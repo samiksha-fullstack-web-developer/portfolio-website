@@ -290,7 +290,7 @@ button:hover {
   margin-top: 150px;
   color: white;
   font-size: 22px;
-  padding-bottom: 600px;
+  padding-bottom: 550px;
 }
 
 .projects {
@@ -399,7 +399,6 @@ button:hover {
     padding: 0 30px;
   }
 
-
   .menu {
     display: none;
     flex-direction: column;
@@ -478,7 +477,7 @@ button:hover {
   }
 
   #education {
-    margin-top: 1000px;
+    margin-top: 1050px;
   }
 
   .education {
