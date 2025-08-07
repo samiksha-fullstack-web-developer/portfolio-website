@@ -452,7 +452,10 @@ button:hover {
     align-items: center;
 
   }
-
+.skill-box{
+  width:350px;
+  height:500px;
+}
   .experience {
     height: auto;
   }
