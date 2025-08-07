@@ -461,7 +461,7 @@ button:hover {
 
   .skill-box {
     width: 280px;
-    height: 650px;
+    height: auto;
     
   }
   .skill-box h4{
