@@ -121,9 +121,11 @@ button:hover {
   padding: 10px;
   /* Optional: adds spacing inside the circle */
 }
-.head3{
-    font-size: 48px;
-  }
+
+.head3 {
+  font-size: 48px;
+}
+
 .image {
   width: 100%;
   height: 100%;
@@ -396,7 +398,7 @@ button:hover {
     margin: 20px auto;
     padding: 0 30px;
   }
- 
+
 
   .menu {
     display: none;
@@ -409,7 +411,7 @@ button:hover {
     transition: all 0.3s ease-in-out;
     font-size: 18px;
     margin-top: 50px;
-    height:100vh;
+    height: 100vh;
     background-color: #00071d;
   }
 
@@ -432,31 +434,37 @@ button:hover {
   .about-left {
     width: 100%;
   }
-  .head3{
+
+  .head3 {
     font-size: 30px;
   }
-  .animatedheading {
-  font-size: 30px;
-  margin-top: 7px;
 
-}
+  .animatedheading {
+    font-size: 30px;
+    margin-top: 7px;
+
+  }
+
   .about-right {
     display: none;
   }
 
   .skill-container {
     flex-direction: column;
-    align-items: center;  
+    align-items: center;
     overflow: hidden;
 
   }
-  h2{
+
+  h2 {
     text-align: center;
   }
-.skill-box{
-  width:300px;
-  height:500px;
-}
+
+  .skill-box {
+    width: 300px;
+    height: 500px;
+  }
+
   .experience {
     height: auto;
   }
