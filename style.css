@@ -438,11 +438,9 @@ button:hover {
   font-size: 30px;
 
 }
-
-
   .about-right {
     width: 90%;
-    height: 400px;
+    height: 300px;
     max-width: 540px;
     margin-top: 18px;
   }
