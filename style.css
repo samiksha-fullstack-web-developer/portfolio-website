@@ -567,11 +567,23 @@ button:hover {
 }
 
 @media screen and (min-width: 768px) and (max-width: 1200px) {
+  .container {
+    margin: 20px auto;
+    padding: 0 30px;
+  }
+
   #projects {
-    padding-bottom: 900px;
+    padding-bottom: 1900px;
   }
 
   #education {
     margin-top: 100px;
   }
+}
+@media screen and (min-width: 1200px) and (max-width: 1230px) {
+  .container {
+    margin: 20px auto;
+    padding: 0 30px;
+  }
+
 }
