@@ -552,7 +552,9 @@ button:hover {
   margin-bottom: 20px;
   height: auto;
   }
-
+#certifications{
+  margin-top: 180px;
+}
   .footer {
     flex-direction: column;
     text-align: center;
