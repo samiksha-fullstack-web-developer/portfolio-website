@@ -547,6 +547,11 @@ button:hover {
     left: 0;
     transform: translate(-50%, 0);
   }
+  .cert-grid {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  height: auto;
+  }
 
   .footer {
     flex-direction: column;
