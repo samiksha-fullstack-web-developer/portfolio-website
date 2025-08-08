@@ -254,7 +254,7 @@ button:hover {
   box-shadow: 1px 2px 8px #2bb5f2;
 }
 
-.experience ul {
+ ul {
   list-style-type: none;
   padding: 0;
   color: white;
@@ -290,7 +290,7 @@ button:hover {
   margin-top: 150px;
   color: white;
   font-size: 22px;
-  padding-bottom: 550px;
+  padding-bottom: 1100px;
 }
  h4{
   color: #fffaa3;
