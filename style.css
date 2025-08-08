@@ -532,6 +532,7 @@ button:hover {
   .footer {
     flex-direction: column;
     text-align: center;
+    font-size: 16px;
   }
 
   .social {
