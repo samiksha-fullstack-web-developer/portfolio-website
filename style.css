@@ -393,8 +393,25 @@ button:hover {
   transform: translateX(-125px);
   z-index: 3;
 }
-
-
+/* certifications */
+#certifications{
+  margin-top: 120px;
+  color: white;
+}
+.cert-grid {
+  display: flex;
+  margin-top: 30px;
+  height: 200px;
+  width: 100%;
+  padding: 20px;
+  box-shadow: 0px 0px 10px #2bb5f2;
+  font-size: 17px;
+}
+.cert-card{
+ margin-top: 10px;
+ padding: 10px;
+ line-height: 1.5;
+}
 /*footer*/
 #copyright {
   margin-top: 90px;
