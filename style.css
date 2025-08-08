@@ -254,7 +254,7 @@ button:hover {
   box-shadow: 1px 2px 8px #2bb5f2;
 }
 
- ul {
+ul {
   list-style-type: none;
   padding: 0;
   color: white;
@@ -292,7 +292,8 @@ button:hover {
   font-size: 22px;
   padding-bottom: 1250px;
 }
- h4{
+
+h4 {
   color: #fffaa3;
 }
 
@@ -333,7 +334,8 @@ button:hover {
   /* Clip the image + content to card shape */
 
 }
-.linku{
+
+.linku {
   text-decoration: underline;
 }
 
@@ -393,11 +395,13 @@ button:hover {
   transform: translateX(-125px);
   z-index: 3;
 }
+
 /* certifications */
-#certifications{
+#certifications {
   margin-top: 150px;
   color: white;
 }
+
 .cert-grid {
   display: flex;
   margin-top: 30px;
@@ -407,11 +411,13 @@ button:hover {
   box-shadow: 0px 0px 10px #2bb5f2;
   font-size: 17px;
 }
-.cert-card{
- margin-top: 10px;
- padding: 10px;
- line-height: 1.5;
+
+.cert-card {
+  margin-top: 10px;
+  padding: 10px;
+  line-height: 1.5;
 }
+
 /*footer*/
 #copyright {
   margin-top: 90px;
@@ -547,14 +553,17 @@ button:hover {
     left: 0;
     transform: translate(-50%, 0);
   }
+
   .cert-grid {
-  margin-top: 50px;
-  margin-bottom: 20px;
-  height: auto;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    height: auto;
   }
-#certifications{
-  margin-top: 180px;
-}
+
+  #certifications {
+    margin-top: 180px;
+  }
+
   .footer {
     flex-direction: column;
     text-align: center;
@@ -580,6 +589,7 @@ button:hover {
     margin-top: 100px;
   }
 }
+
 @media screen and (min-width: 1200px) and (max-width: 1230px) {
   .container {
     margin: 20px auto;
