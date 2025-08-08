@@ -6,10 +6,10 @@ menubtn.addEventListener("click", ()=>{
 
 //about
 const titles = [
+  "Frontend Developer",   
+  "WordPress & Elementor",
   "Full Stack Developer (MERN) Fresher",
   "UI/UX Designer Fresher",
-  "WordPress & Elementor",
-  "Frontend Developer",
   "IT Trainer"
 ];
 
