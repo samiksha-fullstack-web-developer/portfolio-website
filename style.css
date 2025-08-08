@@ -333,6 +333,9 @@ button:hover {
   /* Clip the image + content to card shape */
 
 }
+.linku{
+  text-decoration: underline;
+}
 
 .all:hover {
   animation: shakeY;
