@@ -290,7 +290,7 @@ button:hover {
   margin-top: 150px;
   color: white;
   font-size: 22px;
-  padding-bottom: 1250px;
+  height: 1700px;
 }
  h4{
   color: #fffaa3;
@@ -512,11 +512,12 @@ button:hover {
   }
 
   #projects {
-    padding-bottom: 2090px;
+      height: 2500px;
+
   }
 
   #education {
-    margin-top: 2450px;
+    margin-top: 2200px;
   }
 
   .education {
