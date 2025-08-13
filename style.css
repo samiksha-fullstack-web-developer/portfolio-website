@@ -22,12 +22,15 @@ header {
   align-items: center;
   justify-content: space-between;
   color: white;
-  padding-top: 20px;
-  padding-bottom: 30px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.274);
+  height: 130px; 
 
 }
-
+.logo img {
+  height: 110px; /* shrink logo to fit header */
+  width: auto;  /* keep aspect ratio */
+  
+}
 .menu {
   display: flex;
   gap: 30px;
