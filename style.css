@@ -446,19 +446,21 @@ h4 {
     padding: 0 30px;
   }
 
+
   .menu {
     display: none;
     flex-direction: column;
     position: absolute;
-    top: 80px;
-    width: 70%;
+    top: 110px;
+    width: 80%;
     padding: 10px;
     z-index: 999;
     transition: all 0.3s ease-in-out;
     font-size: 18px;
     margin-top: 50px;
-    height: 100vh;
+    height: 100vh;  
     background-color: #00071d;
+
   }
 
   .menu.active {
